@@ -37,8 +37,8 @@ node app.js 51.470020,-0.454295 51.00000,1.0000 dave
 
 ### Console application to filter by number of passengers
 
-node app.js 51.470020,-0.454295 51.00000,1.0000 dave 6 (to get for dave only and 6 passengers) 
-node app.js 51.470020,-0.454295 51.00000,1.0000 6 (to get for all suppliers combined and 6 passengers) 
+* node app.js 51.470020,-0.454295 51.00000,1.0000 dave 6 (to get for dave only and 6 passengers) 
+* node app.js 51.470020,-0.454295 51.00000,1.0000 6 (to get for all suppliers combined and 6 passengers) 
 
 ## Part 2
 Instructions on how to start the API detailed above. 
