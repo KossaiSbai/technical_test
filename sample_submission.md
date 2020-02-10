@@ -33,7 +33,7 @@ The order of the parameters depends on the route chosen.
 
 ### Console application to print the search results for Dave's Taxis
 
-node app.js 51.470020,-0.454295 51.00000,1.0000 dave 
+* node app.js 51.470020,-0.454295 51.00000,1.0000 dave 
 
 ### Console application to filter by number of passengers
 
