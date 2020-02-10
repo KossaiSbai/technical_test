@@ -23,8 +23,8 @@ For the API:
 * nodemon
 
 3. Finally in order to run the API, enter the following command: npm start. This should trigger nodemon and output in the console: 
-[nodemon] restarting due to changes...
-[nodemon] starting `node server.js`
+* [nodemon] restarting due to changes...
+* [nodemon] starting node server.js
 At that point, the server should be up. Then the following link needs to be put in a web browser: http://localhost:3000/{route}/{supplier_id}/{pickup location}/{drop-off location}/{number of passengers}
 The order of the parameters depends on the route chosen.
 
